@@ -11,7 +11,7 @@
   },
   "Invites": {
     "example-invite-code": {
-      "name": "None",
+      "name": "Overseen",
       "roles": [0, 1],
       "uses": 0,
       "welcome": "None",
